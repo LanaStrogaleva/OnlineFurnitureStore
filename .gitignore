@@ -1,7 +1,7 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
-.idea/
+.idea
 .idea.*
 .idea/modules.xml
 .idea/jarRepositories.xml
